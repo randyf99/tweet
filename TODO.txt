@@ -3,7 +3,7 @@ Tweet **
   NameWithHandle**
   Time**
   Message**
-  ReplyButton*
-  ReTweetButton*
-  LikeButton*
-  MoreOptionsButton*
+  ReplyButton**
+  ReTweetButton**
+  LikeButton**
+  MoreOptionsButton**
